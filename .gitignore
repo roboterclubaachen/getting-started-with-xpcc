@@ -1,0 +1,18 @@
+*~
+*.pyc
+.sconsign.dblite
+.project
+.cproject
+.pydevproject
+.settings/
+build/
+.idea/
+.vagrant/
+
+# qt creator
+*.creator
+*.creator.user
+*.creator.shared
+*.config
+*.includes
+*.files
