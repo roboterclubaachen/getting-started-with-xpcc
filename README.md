@@ -11,6 +11,7 @@ Here is an overview of the examples:
 - [`hello-world`](hello-world): LED blinking and Serial output.
 
 xpcc's [API documentation can be found here][api].
+There are [plenty more examples in xpcc itself][examples].
 
 ## Get the code
 
@@ -18,8 +19,7 @@ xpcc's [API documentation can be found here][api].
 git clone --recursive https://github.com/roboterclubaachen/getting-started-with-xpcc.git
 ```
 
-The example contains the xpcc framework as a git submodule, a `Vagrantfile`
-to enable use of [our virtual machine](http://xpcc.io/installation/#virtual-machine),
+The example contains the lastest release of the xpcc framework as a git submodule,
 a `SConstruct` file for [our build system](http://xpcc.io/reference/build-system/#build-commands),
 a project configuration file and of course the source code.
 
